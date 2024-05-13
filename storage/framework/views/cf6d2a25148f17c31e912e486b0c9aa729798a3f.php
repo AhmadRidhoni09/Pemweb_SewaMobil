@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\vrom_AhmmadRidhoni\resources\views/admin/Type/index.blade.php ENDPATH**/ ?>
